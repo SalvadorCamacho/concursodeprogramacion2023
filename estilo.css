@@ -36,3 +36,7 @@
             background-color: white;
             color: rgb(53, 49, 134);
         }
+
+        .justificar {
+            text-align: justify;
+        }
